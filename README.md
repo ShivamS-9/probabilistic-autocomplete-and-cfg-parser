@@ -1,4 +1,4 @@
-# Programming Assignments for Automata Theory (Monsoon 2023)
+# Probabilistic autocompleter and cfg parser
 
 ## Overview
 
